@@ -93,7 +93,7 @@ Here is a step by step Tutorial :  https://www.ganatan.com/en/tutorials/getting-
 * Author  : danny
 
 ## [English Tutorials](#english-tutorials)
-- Installation - https://www.ganatan.com/tutorials/routing-with-angular
+- Installation - https://www.ganatan.com/en/tutorials/routing-with-angular
 - step-by-step Tutorials - https://www.ganatan.com/tutorials/en
 
 ## [Tutoriels en français](#french-tutorials)
